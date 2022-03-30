@@ -13,5 +13,7 @@ public class HashMain {
         map.add(7, "pp");
         map.add(8, "ii");
         map.add(9, "uu");
+        map.size();
+
     }
 }
